@@ -1,1 +1,1 @@
-<iframe src="p14.html" width="800" height="600"></iframe>
+[View interactive page](https://github.com/MorleyFamily/NicolePhysics/blob/main/p14.html))
